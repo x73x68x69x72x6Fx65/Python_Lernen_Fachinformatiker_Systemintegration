@@ -20,23 +20,23 @@ Bei der Bennung von Variablen ist ebenfalls darauf zu achten, dass keine Leerzei
 
 Besipiele für Bennungen von Variablen:
 
--Es soll die Körpergröße von einem User eingelesen werden. Dafür wird eine Variable erstellt.
+- Es soll die Körpergröße von einem User eingelesen werden. Dafür wird eine Variable erstellt.
 
-$${\color{green}So könnte eine Bennenung aussehen:}$$ 
-koerpergroesse_in_cm = 175
+$${\color{green}So \space könnte \space eine \space Bennenung \space aussehen:}$$ 
+$${\color{green}koerpergroesse_in_cm \space = \space 175}$$ 
 
-$${\color{red}So sollte eine Bennenung nicht aussehen:}$$ 
-x = 175 
+$${\color{red}So \space sollte \space eine \space Bennenung \space in \space diesem \space Beispiel \space nicht \space aussehen:}$$
+$${\color{red}x \space = \space 175 }$$ 
 
--Es sollen die Koordinaten von einem Spieler eines MMO´s gespeichert werden. Dafür wird eine Variable erstellt und mit einem Standardwert befüllt.
+- Es sollen die Koordinaten von einem Spieler eines MMO´s gespeichert werden. Dafür wird eine Variable erstellt und mit einem Standardwert befüllt.
 
-$${\color{green}So könnte eine Bennenung aussehen:}$$
-spieler_Koordinate_X_Wert = -3.662
-spieler_Koordinate_Y_Wert = 5.8112
+$${\color{green}So \space könnte \space eine \space Bennenung \space aussehen:}$$
+$${\color{green}spieler_Koordinate_X \space = \space -3.662}$$
+$${\color{green}spieler_Koordinate_Y \space = \space 5.8112}$$
 
-$${\color{red}So sollte eine Bennenung nicht aussehen:}$$ 
-d = 3.662
-e = 5.8112 
+$${\color{red}So \space sollte \space eine \space Bennenung \space in \space diesem \space Beispiel \space nicht \space aussehen:}$$ 
+$${\color{red}d \space = \space 3.662}$$ 
+$${\color{red}e \space = \space 5.8112 }$$ 
 
 
 ## 1.2 Was sind Datentypen?
