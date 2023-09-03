@@ -22,21 +22,21 @@ Besipiele für Bennungen von Variablen:
 
 - Es soll die Körpergröße von einem User eingelesen werden. Dafür wird eine Variable erstellt.
 
-$${\color{green}So \space könnte \space eine \space Bennenung \space aussehen:}$$ 
-$${\color{green}koerpergroesse_in_cm \space = \space 175}$$ 
+$${\color{green}So \space \color{green}könnte \space \color{green}eine \space \color{green}Bennenung \space \color{green}aussehen:}$$
+$${\color{green}\color{green}koerpergroesse_in_cm \space \color{green}= \space \color{green}175}$$ 
 
-$${\color{red}So \space sollte \space eine \space Bennenung \space in \space diesem \space Beispiel \space nicht \space aussehen:}$$
-$${\color{red}x \space = \space 175 }$$ 
+$${\color{red}So \space \color{red}sollte \space \color{red}eine \space \color{red}Bennenung \space \color{red}in \space \color{red}diesem \space \color{red}Beispiel \space \color{red}nicht \space \color{red}aussehen:}$$
+$${\color{red}x \space \color{red}= \space \color{red}175 }$$ 
 
 - Es sollen die Koordinaten von einem Spieler eines MMO´s gespeichert werden. Dafür wird eine Variable erstellt und mit einem Standardwert befüllt.
 
-$${\color{green}So \space könnte \space eine \space Bennenung \space aussehen:}$$
-$${\color{green}spieler_Koordinate_X \space = \space -3.662}$$
-$${\color{green}spieler_Koordinate_Y \space = \space 5.8112}$$
+$${\color{green}So \space \color{green}könnte \space \color{green}eine \space \color{green}Bennenung \space \color{green}aussehen:}$$
+$${\color{green}\color{green}spieler_Koordinate_X \space \color{green}= \space \color{green}-3.662}$$
+$${\color{green}\color{green}spieler_Koordinate_Y \space \color{green}= \space \color{green}5.8112}$$
 
-$${\color{red}So \space sollte \space eine \space Bennenung \space in \space diesem \space Beispiel \space nicht \space aussehen:}$$ 
-$${\color{red}d \space = \space 3.662}$$ 
-$${\color{red}e \space = \space 5.8112 }$$ 
+$${\color{red}So \space \color{red}sollte \space \color{red}eine \space \color{red}Bennenung \space \color{red}in \space \color{red}diesem \space \color{red}Beispiel \space \color{red}nicht \space \color{red}aussehen:}$$
+$${\color{red}d \space \color{red}= \space \color{red}3.662}$$ 
+$${\color{red}e \space \color{red}= \space \color{red}5.8112 }$$ 
 
 
 ## 1.2 Was sind Datentypen?
