@@ -69,9 +69,9 @@ Hierfür stellt man sich das ganze am besten wie eine Matheaufgabe vor:
 Angenommen wir haben die Aufgabe 2 + 3 zu Rechnen, dann erstellen wir für die 2 und die 3 jeweils eine Variable und eine Dritte mit welcher wir das Ergebnis der Rechnung speichern.
 Das ganze sieht dann wie folgt aus:
 
-Ergebnis = None
-additionsZahl_Eins = 2
-additionsZahl_Zwei = 3
+Ergebnis = None<br>
+additionsZahl_Eins = 2<br>
+additionsZahl_Zwei = 3<br>
 
 Um die Berechnung durchzuführen, wird schließlich der entsprechende Rechenoperator verwendet. Die Berechnung wird auf Grundlage der gewählten Variablennamen durchgeführt. Sie sind eine Art verweis auf die dort gespeicherten Werte.
 
