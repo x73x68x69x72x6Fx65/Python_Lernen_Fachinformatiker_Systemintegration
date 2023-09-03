@@ -20,21 +20,24 @@ Bei der Bennung von Variablen ist ebenfalls darauf zu achten, dass keine Leerzei
 
 Besipiele für Bennungen von Variablen:
 
-- Es soll die Körpergröße von einem User eingelesen werden. Dafür wird eine Variable erstellt.
+-Es soll die Körpergröße von einem User eingelesen werden. Dafür wird eine Variable erstellt.
 
-<p style="color:green">So könnte eine Bennenung aussehen: </p>
+$${\color{green}So könnte eine Bennenung aussehen:}$$ 
 koerpergroesse_in_cm = 175
-<p style="color:red">So sollte eine Bennenung nicht aussehen: </p>
+
+$${\color{red}So sollte eine Bennenung nicht aussehen:}$$ 
 x = 175 
 
-- Es sollen die Koordinaten von einem Spieler eines MMO´s gespeichert werden. Dafür wird eine Variable erstellt und mit einem Standardwert befüllt.
+-Es sollen die Koordinaten von einem Spieler eines MMO´s gespeichert werden. Dafür wird eine Variable erstellt und mit einem Standardwert befüllt.
 
-<p style="color:green">So könnte eine Bennenung aussehen: </p>
+$${\color{green}So könnte eine Bennenung aussehen:}$$
 spieler_Koordinate_X_Wert = -3.662
 spieler_Koordinate_Y_Wert = 5.8112
-<p style="color:red">So sollte eine Bennenung nicht aussehen: </p>
+
+$${\color{red}So sollte eine Bennenung nicht aussehen:}$$ 
 d = 3.662
 e = 5.8112 
+
 
 ## 1.2 Was sind Datentypen?
 Mit dem Wort Datentypen werden Daten in verschiedene Arten untereilt. Ein Datentyp bezieht sich darauf, welche Art von Wert eine Varaible hat
