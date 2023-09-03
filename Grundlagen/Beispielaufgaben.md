@@ -180,3 +180,7 @@ Gib Ihn in einer Print-Funktion aus, ändere hierbei jeden kleingeschriebenen Bu
 Die Ausgabe sollte so aussehen:
 ".AUTPULOV MAID DES RTILE GNICSPIDAS RUTETESNOC TEMA TIS ROLOD MUSPI MEROL"
 
+# Bonusaufgabe zur Grundwissensfestigung
+
+Erstelle eine Konsolenanwendung, in welcher zwei User gegeneinander Tic Tac Toe spielen können.
+
