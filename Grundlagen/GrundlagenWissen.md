@@ -23,20 +23,21 @@ Besipiele für Bennungen von Variablen:
 - Es soll die Körpergröße von einem User eingelesen werden. Dafür wird eine Variable erstellt.
 
 $${\color{green}So \space \color{green}könnte \space \color{green}eine \space \color{green}Bennenung \space \color{green}aussehen:}$$
-$${\color{green}\color{green}koerpergroesse_in_cm \space \color{green}= \space \color{green}175}$$ 
+<p align="center">koerpergroesse_in_cm = 175</p>
 
 $${\color{red}So \space \color{red}sollte \space \color{red}eine \space \color{red}Bennenung \space \color{red}in \space \color{red}diesem \space \color{red}Beispiel \space \color{red}nicht \space \color{red}aussehen:}$$
-$${\color{red}x \space \color{red}= \space \color{red}175 }$$ 
+<p align="center">x = 175 </p>
 
 - Es sollen die Koordinaten von einem Spieler eines MMO´s gespeichert werden. Dafür wird eine Variable erstellt und mit einem Standardwert befüllt.
 
 $${\color{green}So \space \color{green}könnte \space \color{green}eine \space \color{green}Bennenung \space \color{green}aussehen:}$$
-$${\color{green}\color{green}spieler_Koordinate_X \space \color{green}= \space \color{green}-3.662}$$
-$${\color{green}\color{green}spieler_Koordinate_Y \space \color{green}= \space \color{green}5.8112}$$
+<p align="center"> spieler_Koordinate_X = -3.662 </p>
+<p align="center">spieler_Koordinate_Y = 5.8112 </p>
 
 $${\color{red}So \space \color{red}sollte \space \color{red}eine \space \color{red}Bennenung \space \color{red}in \space \color{red}diesem \space \color{red}Beispiel \space \color{red}nicht \space \color{red}aussehen:}$$
-$${\color{red}d \space \color{red}= \space \color{red}3.662}$$ 
-$${\color{red}e \space \color{red}= \space \color{red}5.8112 }$$ 
+<p align="center">d = 3.662 </p>
+<p align="center">e = 5.811</p>
+
 
 
 ## 1.2 Was sind Datentypen?
