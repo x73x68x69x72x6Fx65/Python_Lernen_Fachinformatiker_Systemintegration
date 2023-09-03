@@ -1,3 +1,51 @@
+# Grundübungen zum Verständnis von Print Befehlen
+
+*Alle Lösungen zu den Grundübungen zum Verständnis von Print Befehlen befinden sich in der Datei* **BeispielLösung_Grundaufgaben.py**
+
+## Übung 1:
+Versuche die Wörter Kaffe, Zucker und Tee genau in dieser Reihenfolge, jeweils mit einem Leerzeichen dazwischen mit einem Print-Befehl auszugeben.
+
+## Übung 2:
+Versuche 3 mal hintereinander den Satz PythonIstSimpel und ohne Leerzeichen dazwischen auszugeben.
+
+## Übung 3:
+Versuche die Ausgabe in der Konsole für Folgenden Python Code vorherzusagen:
+```
+alter = 21
+name = "Kevin"
+print("Hey, Ich bin", name, "!", "In 5 Jahren bin ich ", alter + 5, "Jahre alt.")
+```
+
+## Übung 4:
+Schau dir folgenden Code an und entscheide dich, was auf der Console ausgegeben wird:
+```
+zahl1 = 23
+zahl2 = 9.6
+print(zahl1 >= zahl2, zahl1 <= zahl2, not zahl1, zahl1 % 5 != 0)
+```
+
+## Übung 5:
+Nutze die 3 Variablen,
+```
+zahl1 = 10
+zahl2 = 4.77
+zahl3 = 2
+```
+um Folgende Ausgabe zu erreichen:
+*124.77*
+Hierfür sollen keine weiteren Variablen erstellt werden. Es dürfen nur die Print Funktion und die Variablen zur Lösung des Problems verwendet werden.
+
+## Übung 6:
+Überlege dir wie du mit einer einzigen Variable und mehreren Print-Funktionsaufrufen folgende Konsolenanzeige replizieren kannst:
+```
+True
+False
+True False False
+789
+```
+
+# _______________________________________________________________________________________________________________________________________________
+
 **Hinweis für alle Aufgaben wird empfohlen sich davor zu Erkundigen, wie man mit dem print Befehl auch in der selben Zeile ohne Zeilenumbruch wieder eine Ausgabe erzeugen kann. Zudem solltest du immer im Hinterkopf behalten, dass es für eine Aufgabe mehrere Lösungen gibt und es nicht nur eine Richtige Lösung gibt. Je nach Denk- und Vorgehensweise unterscheiden sich die Lösungen hierbei stark. Die vorhanden Lösungen sind nur Beispiele oder Vorschläge, wie ich diese Probleme gelöst hätte.**
 
 
@@ -83,3 +131,52 @@ Als Bonus soll Folgendes Muster gezeichnet werden:
 *********
 ```
 Hierbei soll ein 3D Würfel erstellt werden, bei welchem der User selbst festlegen kann, wie hoch der Würfel gezeichnet werden soll.
+
+# Aufgabe 6 String Übungen
+
+## Übung 1
+Du hast folgenden Code:
+```
+satz = "Hello World!"
+print("Der Satz ist:", satz)
+buchstabe = satz[0]
+print("Der Buchstabe lautet: ",buchstabe)
+```
+Was wird in der Konsole ausgegeben?
+
+## Übung 2
+Erstelle einen String mit einer Länge von 23 und überprüfe es, indem du die len() Funktion verwendest und die Länge des Strings ausgibst.
+Hierfür ist es eigentlich egal welche Länge du genau nimmst, wichtig ist nur dass die länge über 10 ist und es ein Satz ist mit mehreren Wörtern ist.
+
+## Übung 3
+Finde in dem Satz
+```
+Ich habe Hunger!
+```
+mit Hilfe der find()-Funktion die Position des ersten "h" und des ersten "x" und gebe die jeweilige Position in der Konsole aus.
+
+## Übung 4
+Du hast folgenden Satz:
+```
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+```
+Zähle alle E-Buchstaben, S-Buchstaben und L-Buchstaben in diesem Satz, gib diese anschließend per Konsole aus.
+
+## Übung 5
+Du hast folgenden Satz:
+```
+Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam voluptua.
+```
+Nutze die split()-Funktion, um in einer Liste alle Einzelnen Wörter zu speichern und gib diese in der Konsole aus. 
+
+## Übung 6
+Du hast den Satz:
+
+```
+lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam voluptua.
+```
+Gib Ihn in einer Print-Funktion aus, ändere hierbei jeden kleingeschriebenen Buchstaben mit einem Großgeschriebenen Buchstaben und drehe diesen zuvor um.
+
+Die Ausgabe sollte so aussehen:
+".AUTPULOV MAID DES RTILE GNICSPIDAS RUTETESNOC TEMA TIS ROLOD MUSPI MEROL"
+
