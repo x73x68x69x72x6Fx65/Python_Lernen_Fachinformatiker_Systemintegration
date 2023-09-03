@@ -75,9 +75,9 @@ additionsZahl_Eins = 2
 additionsZahl_Zwei = 3
 ```
 Um die Berechnung durchzuführen, wird schließlich der entsprechende Rechenoperator verwendet. Die Berechnung wird auf Grundlage der gewählten Variablennamen durchgeführt. Sie sind eine Art verweis auf die dort gespeicherten Werte.
-
+```
 Ergebnis = additionsZahl_Eins + additionsZahl_Zwei
-
+```
 Damit erhält die Variable Ergebnis den Wert 5, welcher sich durch 2 + 3 ergibt.
 
 
