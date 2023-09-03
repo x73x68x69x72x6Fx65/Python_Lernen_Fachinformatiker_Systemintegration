@@ -44,7 +44,7 @@ True False False
 789
 ```
 
-# ____________________________________________________________
+# ________________________________________________________________________
 
 **Hinweis für alle Aufgaben wird empfohlen sich davor zu Erkundigen, wie man mit dem print Befehl auch in der selben Zeile ohne Zeilenumbruch wieder eine Ausgabe erzeugen kann. Zudem solltest du immer im Hinterkopf behalten, dass es für eine Aufgabe mehrere Lösungen gibt und es nicht nur eine Richtige Lösung gibt. Je nach Denk- und Vorgehensweise unterscheiden sich die Lösungen hierbei stark. Die vorhanden Lösungen sind nur Beispiele oder Vorschläge, wie ich diese Probleme gelöst hätte.**
 
