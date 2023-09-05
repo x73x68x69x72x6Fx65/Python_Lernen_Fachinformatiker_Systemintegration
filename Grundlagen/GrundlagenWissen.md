@@ -81,10 +81,39 @@ Ergebnis = additionsZahl_Eins + additionsZahl_Zwei
 Damit erhält die Variable Ergebnis den Wert 5, welcher sich durch 2 + 3 ergibt.
 
 
-## 2 In welcher Reihenfolge sollte ich die Python-Dateien verwenden?
+## 2. Was sind Methoden / Funktionen?
+Mit Funktionen lassen sich unter Python Teilbereiche eines Programms zusammenfassen. Damit kann der Code strukturiert gestaletet werden und einfacher von anderen Personen gelesen werden. Zudem wird für wiederkehrende Aufgaben eine redundanz des Codes erspart.
+Eine Methode kennzeichnet sich durch das Schlüsselwort *def* gefolgt von einem Namen einer geöffneten Klammer, gefolgt von den so genannten Paramtern (Übergabeparametern).
+Code Beispiel:
+```
+def summeBilden(zahl1, zahl2, zahl3):
+    return zahl1 + zahl2 + zahl3
+
+print(summeBilden(5,7,12))
+#Ausgabe 24
+```
+Mit *def* wird eine Methode deklariert, anschließend wird ein Name gewählt, gefolgt von einer geöffneten Klammer und den Übergabewerten. Wenn man ein Ergebnis zurückgeben möchte, wird dies über das Schlüsselwort return gemacht. Im oberen Beispiel wird dadurch 5+7+12 gerechnet und das Ergebnis direkt in der Print()-Funktion ausgegeben. 
+
+Der Aufruf solcher Methoden erfolgt immer durch den Namen der Funktion gefolgt von den definierten Paramtern innerhalb der Klammern. Sollte man den Rückgabewert hierbei speichern wollen, so muss man dafür einfach eine Variable erstellen.
+
+Beispiel:
+```
+def summeBilden(zahl1, zahl2, zahl3):
+    return zahl1 + zahl2 + zahl3
+
+summe = summeBilden(5,7,12)
+print(summe)
+#Ausgabe 24
+```
+Hierbei wird der Rückgabewert der Funktion in der Variable Summe gespeichert.
+
+
+## 3. In welcher Reihenfolge sollte ich die Python-Dateien verwenden?
 Beginne als Erstes mit **Variablen_Deklarationen_und_Rechenoperatoren.py** 
 Darin wird ein Beispiel eines BMI-Rechners mit fixen Werten dargestellt. Hierbei kann man am besten lernen, wie man variablen deklariert, und mit Ihnen Rechnet und Ausgaben in der Konsole darstellt. 
 
 Danach solltest du mit **Rechenoperationen_und_Schleifen.py** weiter machen. In dieser Datei werden die Grundlagen zu If-Abfragen, For-Schleifen und While-Schleifen behandelt. Diese Schleifen und If-Abfragen bilden die Grundlage für die Gesamte Programmierung und sind somit einer der Wichtigsten Punkte. Hat man dies einmal verstanden, kann man ohne Probleme alle Berufsschulaufgaben erledigen.
 
 Anschließend kannst du dich selbst an einigen Aufgaben Versuchen. Unter der **Beispielaufgaben.md** können die Aufgabenstellungen gefunden werden. Ein Beispiellösungsweg kann jederzeit unter den **BeispielLösung_Aufgabenname.py**-Dateien angesehen werden. Diese Aufgaben helfen dabei dein Grundwissen zu festigen und zu verbessern. 
+
+
